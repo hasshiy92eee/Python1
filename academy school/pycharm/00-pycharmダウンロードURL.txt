@@ -1,0 +1,4 @@
+https://www.jetbrains.com/ja-jp/pycharm/
+
+"Community""バージョンを選択する
+
